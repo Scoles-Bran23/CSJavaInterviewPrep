@@ -7,6 +7,6 @@
 * Algorithmic Complexity
 * Arrays, ArrayLists, and Linked Lists
 * Stacks and Queues
-* Sorting (Merge Sort) and Library Implementation of Sorting
+* Merge Sort and Library Implementation of Sorting
 * Searching (Linear and Binary Search)
 * Hash-tables and Maps
