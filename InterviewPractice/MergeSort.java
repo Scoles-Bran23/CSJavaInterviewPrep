@@ -1,6 +1,7 @@
 //Resources:
 //https://www.youtube.com/watch?v=yv6svAfoYik
 //https://www.youtube.com/watch?v=JSceec-wEyw
+//split into sub arrays and merge the sub arrays
 /*
 How to code the merge sort algorithm in Java 8.
 Merge sort is a sorting algorithm that splits an array into halves until each
